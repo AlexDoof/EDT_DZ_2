@@ -213,7 +213,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="205329e5-be3e-4c01-bab1-432ef3a9d77d">
-    <name>ДЗ_ЕДТ_2_Должность</name>
+    <name>ДЗ_ЕДТ_2_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
       <value>Должность</value>
